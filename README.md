@@ -26,8 +26,8 @@ I'm a Full stack developer, passionate about technology, working for a better fu
 </p>
 
 ### My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huynhkimtri&theme=dark)](https://git.io/streak-stats)
-<br>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huynhkimtri&theme=dark)](https://git.io/streak-stats)
+<br> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkimtri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
