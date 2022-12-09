@@ -1,12 +1,12 @@
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 
 
 ### Hi there, I'm Kim-Tri Huynh!👋
-I'm a Full stack developer, passionate about technology, working for a better future with the help of digital world.
+I'm a Software Engineer, passionate about technology, working for a better future with the help of digital world.
 
 ### My skills 
 
